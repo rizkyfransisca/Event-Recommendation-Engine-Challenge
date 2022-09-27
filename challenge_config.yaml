@@ -82,6 +82,6 @@ challenge_phase_splits:
   - challenge_phase_id: 222
     leaderboard_id: 111
     dataset_split_id: 333
-    visibility: 1
+    visibility: 3
     leaderboard_decimal_precision: 2
     is_leaderboard_order_descending: True
